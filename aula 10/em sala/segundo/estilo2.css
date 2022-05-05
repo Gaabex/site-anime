@@ -1,0 +1,10 @@
+#a{background-color: red;}
+#b{background-color: green;}
+#c{background-color: pink;}
+
+#linha{
+background-color: rgb(221, 184, 82);
+height: 300px;
+display: grid;
+grid-template-columns: 1fr 2fr 1fr;
+}
